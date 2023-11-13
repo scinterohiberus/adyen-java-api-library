@@ -8,6 +8,10 @@
     <name>Adyen Java API Library</name>
     <description>Adyen API Client Library for Java</description>
     <url>https://github.com/adyen/adyen-java-api-library</url>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+   </properties>
     <licenses>
         <license>
             <name>MIT</name>
